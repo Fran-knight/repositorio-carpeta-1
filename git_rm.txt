@@ -1,0 +1,1 @@
+Sucede que el comando elimina el archivo del repositorio pero no lo elimina del disco duro del equipo físico.
